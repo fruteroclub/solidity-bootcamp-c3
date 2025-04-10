@@ -129,5 +129,18 @@ Foundry ejecutará funciones de prueba con argumentos aleatorios y te mostrará 
 
 ---
 
+---
+
+### Transacciones hechas en la Red Scroll durante la Clase
+- [Despliegue ERC20 Token Fruta-Staking](https://scroll.blockscout.com/tx/0x8d25aef687eddfd7d08050449b575383e1e67b6e5cd46a410be3c4a5d8067766)
+- [Despliegue ERC20 Token Fruta-Reward](https://scroll.blockscout.com/tx/0x04062c76c6b3b188195c6b06cad1bbe3f274a245dedb25636510a8e1c027199b)
+- [Despliegue Staking Contract compatible con el token Fruta-Staking](https://scroll.blockscout.com/tx/0x81a114c16d796bee8b515a877bec650b94bc8fdd196ba6a113cae556b4ad4d15)
+- [Transaccion Fallida de Deposit por no haber ejecutado el approve anteriormente](https://scroll.blockscout.com/tx/0x72b0a5baa06484cddd5cc3359b1d023d242b155b12339c9e72764afb5ad7a7b3?tab=index)
+- [Transaccion Deposit exitosa de un token FTS](https://scroll.blockscout.com/tx/0xe3b366db3b4372befb342ecc6b0627c68d387a33738d454b422b22fcc3412f89)
+
+---
+
+**Note que este codigo se uso con fines educativos y no se recomienda su uso en produccion**
+
 Hecho con 💚 para ayudarte a convertirte en un mejor desarrollador DeFi.
 
